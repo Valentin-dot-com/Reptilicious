@@ -4,7 +4,7 @@ import vue from '@vitejs/plugin-vue';
 import vueDevTools from 'vite-plugin-vue-devtools';
 
 export default defineConfig({
-	base: '/fed24d-grafiska-verktyg-kubakrokodilerna/',
+	base: '/Valentin-dot-com/Reptilicious',
 	plugins: [vue(), vueDevTools()],
 	resolve: {
 		alias: {
